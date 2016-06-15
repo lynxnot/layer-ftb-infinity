@@ -1,0 +1,9 @@
+options:
+  server_port:
+    default: 25565
+    type: int
+    description: "TCP port for the minecraft server."
+  RAM_MAX:
+    default: 2048
+    type: int
+    description: "The max server memory (java -Xmx)"

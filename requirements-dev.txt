@@ -1,0 +1,10 @@
+charmhelpers==0.7.0
+netaddr==0.7.18
+six==1.10.0
+charms.reactive==0.4.3
+Tempita==0.5.2
+Jinja2==2.8
+pyaml==15.8.2
+MarkupSafe==0.23
+PyYAML==3.11
+amulet

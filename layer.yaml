@@ -1,0 +1,2 @@
+repo: "https://github.com/lynxnot/layer-ftb-infinity.git"
+includes: ['layer:basic','interface:java']

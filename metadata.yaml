@@ -1,0 +1,13 @@
+name: ftb-infinity
+summary: Feed The Beast - Infinity
+maintainer: d <df@tisynch.com>
+description: |
+  Feed the Beast Infinity is a lot of mods!
+tags:
+  - app-servers
+series:
+  - xenial
+provides:
+  java:
+    interface: java
+    scope: container
